@@ -1,4 +1,4 @@
-# hmuzik
+# fedevices
 
 Unofficial Node.js module for the Maxmind GeoIP2
 Web Services.
